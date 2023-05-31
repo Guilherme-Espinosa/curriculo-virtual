@@ -1,23 +1,70 @@
-# Curriculum Vitae Online
+# Curriculum virtual
 
-Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
+---
 
-O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
+<div class="basicInfo" align="center">
+  
+  <div class="status" align="top">
+    <table align="space-between">
+      <tr>
+        <td>Status:</td> <td>Finalizado</td>
+      </tr>
+      <tr>
+        <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
+      </tr>
+      <tr>
+        <td>Orientadores:</td> <td><a href="https://www.linkedin.com/in/renanjpaula/">Renan Johannsen</a></td>
+      </tr>
+      <tr>
+        <td>Plataforma de ensino:</td> <td><a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a></td>
+      </tr>
+      <tr>
+        <td>Diretórios de referência:</td>  
+        <td>
+        		<ol> 
+	        		<li>  
+	        			<a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech">Bootcamp Potência Tech</a>
+	        		</li>  
+	        		<li>
+	        			<a href="https://github.com/digitalinnovationone/cv">Curriculum Vitae Online - DIO</a> 
+	        		</li>
+        		</ol>
+        </td>
+      </tr>
+      <tr>
+        <td>Deploy</td> <td><a href="https://guilherme-espinosa.github.io/curriculo-virtual/">Currículo Virtual - Github Pages</a></td>
+      </tr>
+      <tr>
+        <td>Links úteis</td> <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web">Mozilla Developer Network (MDN)</a></td>
+      </tr>
+    </table>
+  </div>
+</div>
 
-Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
+---
 
+<p align="justify"> Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.</p>
 
+<p align="justify"> O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.</p>
+
+<p align="justify"> Ele também pode ser utilizado como currículo vitae e portfólio pessoal.</p>
+
+---
 **Fork do projeto:** 
 
 https://github.com/digitalinnovationone/cv
 
+---
 **Dúvidas:**
+
 https://github.com/digitalinnovationone/cv/issues
 
+---
 **Referências:**
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
+---
 ### ✅ Desenvolvendo Seu Curriculum Vitae Online:
 
 Há várias formas de iniciar o desenvolvimento do seu projeto, como:
@@ -148,6 +195,7 @@ O GitHub Pages é frequentemente usado por desenvolvedores e equipes de desenvol
 
 Além disso, o GitHub Pages também suporta Jekyll, um gerador de sites estáticos que permite que você crie um site mais complexo com menos esforço, oferecendo recursos como geração automática de páginas e layouts.
 
+---
 
 **Saiba mais sobre HTML, Emojis:**
 
